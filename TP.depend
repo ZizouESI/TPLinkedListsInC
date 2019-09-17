@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1535211848 source:e:\1cpi\semestre 02\tp1_sebbagh_fodil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<ctype.h>
+	"TP.h"
+
+1524921888 e:\1cpi\semestre 02\tp1_sebbagh_fodil\tp.h
+
+1535211572 source:e:\1cpi\semestre 02\tp1_sebbagh_fodil\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"TP.h"
+
